@@ -11,26 +11,26 @@ Kemudian dari sisi admin, admin dapat melakukan CRUD terhadap barang yang dijual
 <b>FITUR SISTEM:</b>
 
 USER
-	Auth :\n
-	   1. Register -> Email verif.\n
-	   2. Login\n
-	Profile : CRUD
-        Lihat barang yang dijual
-	Cart : CRUD
-	Checkout
-	Wallet ->Pengisian dan penarikan saldo
-	Tracking proses pembelian
-	Notifikasi
-	Chatting dengan Admin
-ADMIN
-	CRUD barang dagangan
-	Terima order dari user
-	Notifikasi order
-	Terima pembayaran dari User
-	Menampilkan lokasi user yang membeli barang
-	Chatting dengan User
-GUEST
-	Melihat barang apa yang ada
-	Login jika ingin melakukan pembelian
-	Chatting dengan Admin
+	Auth :  
+	   1. Register -> Email verif.  
+           2. Login  
+	Profile : CRUD  
+        Lihat barang yang dijual  
+	Cart : CRUD  
+	Checkout  
+	Wallet ->Pengisian dan penarikan saldo  
+	Tracking proses pembelian  
+	Notifikasi  
+	Chatting dengan Admin  
+ADMIN  
+	CRUD barang dagangan  
+	Terima order dari user  
+	Notifikasi order  
+	Terima pembayaran dari User  
+	Menampilkan lokasi user yang membeli barang  
+	Chatting dengan User  
+GUEST  
+	Melihat barang apa yang ada  
+	Login jika ingin melakukan pembelian  
+	Chatting dengan Admin  
 
