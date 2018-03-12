@@ -11,9 +11,9 @@ Kemudian dari sisi admin, admin dapat melakukan CRUD terhadap barang yang dijual
 <b>FITUR SISTEM:</b>
 
 USER
-	Auth :
-	   1. Register -> Email verif.
-	   2. Login
+	Auth :\n
+	   1. Register -> Email verif.\n
+	   2. Login\n
 	Profile : CRUD
         Lihat barang yang dijual
 	Cart : CRUD
