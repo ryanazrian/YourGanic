@@ -218,3 +218,39 @@ There are a few steps you may want to take to troubleshoot these kinds of errors
 If you're not able to scan the QR code, make sure your phone's camera is focusing correctly, and also make sure that the contrast on the two colors in your terminal is high enough. For example, WebStorm's default themes may [not have enough contrast](https://github.com/react-community/create-react-native-app/issues/49) for terminal QR codes to be scannable with the system barcode scanners that the Expo app uses.
 
 If this causes problems for you, you may want to try changing your terminal's color theme to have more contrast, or running Create React Native App from a different terminal. You can also manually enter the URL printed by the packager script in the Expo app's search bar to load it manually.
+## [11_YourGanic]
+1. Faiz Muchazmi - G64150043
+2. Adam Firdaus - G64150045
+3. Ryan Azrian Syach - G64150068
+
+<b>DESRKIPSI SISTEM:</b>
+
+YourGanic merupakan aplikasi marketplace dengan proses bisnis business to consumer  yang menjual berbagai produk organik, aplikasi ini menyediakan berbagai produk organik yang dapat dibeli oleh para konsumen, sebelumnya untuk melakukan pembelian pembeli harus terlebih dahulu login/register kedalam aplikasi, namun jika tidak login pembeli hanya dapat melihat produk organik apa saja yabng ditawarakan. Selanjutnya pembeli dapat membeli produk organik tersebut, yang nantinya akan masuk ke keranjang dulu sebelum dilakukan pembayaran. Kemudian pada tahap pembayaran pembeli dapat memilih salah satu dari 2 buah jenis pembayaran, yaitu COD dan transfer, proses transfer dilakukan di dalam aplikasi (berupa token). 
+Kemudian dari sisi admin, admin dapat melakukan CRUD terhadap barang yang dijualnya. Kemudian admin juga dapat menerima pembayaran dalam aplikasi berupa token.
+
+<b>FITUR SISTEM:</b>
+
+USER
+	Auth :  
+	   1. Register -> Email verif.  
+           2. Login  
+	Profile : CRUD  
+        Lihat barang yang dijual  
+	Cart : CRUD  
+	Checkout  
+	Wallet ->Pengisian dan penarikan saldo  
+	Tracking proses pembelian  
+	Notifikasi  
+	Chatting dengan Admin  
+ADMIN  
+	CRUD barang dagangan  
+	Terima order dari user  
+	Notifikasi order  
+	Terima pembayaran dari User  
+	Menampilkan lokasi user yang membeli barang  
+	Chatting dengan User  
+GUEST  
+	Melihat barang apa yang ada  
+	Login jika ingin melakukan pembelian  
+	Chatting dengan Admin  
+
